@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Solution](https://github.com/nathsantoliver/nfc-preview-card-component-main/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Stats Preview Card](https://stats-preview-card-component-main-gamma-woad.vercel.app/)
 
 ## My process
 
