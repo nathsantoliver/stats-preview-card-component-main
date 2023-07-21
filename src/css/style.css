@@ -44,7 +44,7 @@ body {
 .card {
     background-color: hsl(244, 38%, 16%);
     width: 77vw;
-    height: 60vh;
+    height: 55vh;
     border-radius: 8px;
     overflow: hidden;
     display: flex;
